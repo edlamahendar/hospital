@@ -1,0 +1,286 @@
+
+@media (max-width: 1024px) {
+    #nav-menu-container {display: none;}
+    #mobile-nav-toggle {display: inline;}
+    #header.header-fixed{padding: 14px 0; height: auto;}
+    #mobile-nav-toggle{position: absolute; top:0px; margin-top:12px;}
+    .logo .logo-blue {display: block;}
+    .logo .logo-blue img{width: 123px;}
+    .logo .logo-white {display: none;}
+    #header{position: initial; padding:15px 0; height: auto;}
+    #mobile-nav-toggle i {color: #31bda2;}
+    .slider-wrap .icon-wrap {margin-bottom:0px; margin-top: 42px; width: 50px; height: 50px;}
+    .slider-wrap .icon-wrap:before{width:80px; height:80px;}
+    .slider-wrap ol.carousel-indicators{margin-bottom:10px;}
+
+    .slider-wrap .carousel-caption{top: 10px !important;}
+    .align-items-center-mb {margin: 0px auto; width: 100%; text-align: center; justify-content: center; display: flex;}
+    .newscroll-block{margin-top: 10px;}
+    .cutom-read-more-btn{display: table;}
+    .sponsors-logo ul li{width: 40%;}
+
+  .sub-banner{padding: 30px 0px 30px 0px;}
+  .breadcrumb-area h4{font-size: 32px;}
+  .about-us .content-column h2{font-size: 26px;}
+  .newsblock-bar .events ul li .event-info{margin-left: 0px;}
+  .newsblock-bar .events ul li{margin-right: 0px;}
+  
+  .optional-ui .form-group .form-control{width: 60%;}
+
+  .ts-schedule-nav ul li a{padding: 15px 20px;}
+  .schedule-tabs-item .schedule-listing-item.schedule-left{margin-top: 40px;}
+  .ts-schedule-nav{margin-bottom: 0px;} 
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+ #header {padding: 19px 0;}
+#nav-menu-container{margin: 4px 0px 0px 0px;}
+.slider-wrap h3{font-size: 42px;} 
+.slider-wrap h6 { font-size: 16px;}
+.slider-wrap .carousel-caption {top: 146px; right: 10%; left: 10%;}
+.slider-wrap .icon-wrap {margin-bottom: 63px; margin-top: 42px; width: 50px; height: 50px;}
+.slider-wrap .icon-wrap:before{width: 90px; height: 90px;}
+.slider-wrap .carousel-indicators {bottom: 21px;}
+.webinars-upcoming-block .icon-wrap {margin-bottom: 63px; margin-top: 42px; width: 50px; height: 50px;}
+.webinars-upcoming-block .icon-wrap:before{width: 90px; height: 90px;}
+.webinars-bg{padding: 60px 51px 60px 70px;}
+.webinars-upcoming-block .webinars-cont{width: 74%; margin-left: 45px;}
+.webinars-upcoming-block p {font-size: 15px;}
+.testimonials-name{margin-left: 10px; margin-top: 62px;}
+.testimonials-name h6{margin-left: 8px; padding: 0px 0px 0px 17px; font-size: 14px;}
+.facts-block .counters span {font-size: 38px;} 
+.fotter-wrap .outline-btn-w{padding: 12px 17px; font-size: 14px;} 
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+.outline-btn-w{padding: 13px 25px;}
+.slider-wrap h3 {font-size: 26px; width: 100%;}
+.slider-wrap h6 {font-size: 16px; line-height: 24px; margin: 5px auto;}
+.slider-wrap .carousel-caption {top: 148px; right: 10%;  left: 10%;}
+.slider-wrap .carousel-indicators {bottom:0px;}
+.slider-wrap .icon-wrap {margin-bottom:0px; margin-top: 42px; width: 50px; height: 50px;}
+.slider-wrap .icon-wrap:before{width:80px; height:80px;}
+.slider-wrap .primary-btn{display:none;}
+
+a.logo-white img {width: 123px;}
+#header {padding:20px 0; height: auto;}
+#header.header-fixed .logo .logo-blue img{width: 123px;}
+#header.header-fixed{height: auto;}
+.facts-block .counters span {font-size: 36px;}   
+
+.webinars-upcoming-block .icon-wrap {margin-bottom:21px; margin-top:24px; width: 50px; height: 50px;}
+.webinars-upcoming-block .icon-wrap:before{width: 90px; height: 90px;}
+.webinars-upcoming-block .webinars-cont{width: 100%;  margin-left: 0px;}
+.webinars-bg{padding:20px 25px 60px 25px; text-align: center;}
+.webinars-upcoming-block p{font-size: 14px; line-height: 22px; text-align: center;}
+.webinars-upcoming-block h4 {font-size: 26px;}
+.webinars-upcoming-block .icon-wrap{float:initial; text-align:center;}
+.webinars-upcoming-block h3{line-height: 43px; text-align: center;}
+.webinars-upcoming-block .outline-btn-w{display: block;}
+
+.view-datasheet-wrap h4{font-size: 16px; line-height: 24px;}
+.view-datasheet-wrap h5{line-height: 24px; font-size: 13px;}
+.fotter-bottom ul.socialIcons{margin: 16px 0px 0px 0px;}
+
+
+.common-block-ui.graybg.sponsors:after{display: none;}
+
+
+}
+
+@media (max-width: 768px) {
+#nav-menu-container {display: none;}
+#mobile-nav-toggle {margin-top:15px; display: inline; }   
+.back-to-top {bottom: 15px;}
+#mobile-nav-toggle i { color: #31bda2;}
+
+.slider-wrap .carousel-caption{top: -10px;}
+.slider-wrap h3{width: 100%;}
+.slider-wrap h6 {font-size: 16px; line-height: 22px; margin: 5px auto;}
+.align-items-center-mb {margin: 0px auto; width: 100%; text-align: center; justify-content: center; display: flex;}
+.cutom-read-more-btn{display: table;}
+.common-block-ui.graybg.sponsors:after{display: none;}
+.slider-wrap h6{font-size: 14px;}
+.common-block-ui{padding: 20px;}
+.sponsors-logo{margin-top: 20px;}
+.joinus-bg{padding:0px 40px;}
+.optional-ui .form-group .form-control{width: 100%; margin-bottom: 10px;}
+.services_col{margin-top: -70px;}
+
+.sub-banner{padding: 30px 0px 30px 0px;}
+  .breadcrumb-area h4{font-size: 32px;}
+  .about-us .content-column h2{font-size: 26px;}
+  .newsblock-bar .events ul li .event-info{margin-left: 0px;}
+  .newsblock-bar .events ul li{margin-right: 0px;}
+
+
+  .ts-schedule-nav ul li a{padding: 15px 20px;}
+  .schedule-tabs-item .schedule-listing-item.schedule-left{margin-top: 40px;}
+  .ts-schedule-nav{margin-bottom: 0px;}
+
+  .fotter-wrap ul{display: table;}
+  .sponsors-area .single{width: 30%;}
+  .address p{display: inline-flex;}
+  .border-line-rt{border: none;}
+
+}
+
+  @media (max-width: 767px) {
+    #nav-menu-container {display: none;}
+    #mobile-nav-toggle {display: inline;}
+    #header.header-fixed{padding: 14px 0; height: auto;}
+    #mobile-nav-toggle{position: absolute; top:0px; margin-top:12px;}
+    .logo .logo-blue {display: block;}
+    .logo .logo-blue img{width: 123px;}
+    .logo .logo-white {display: none;}
+    #header{position: initial; padding:15px 0; height: auto;}
+    #mobile-nav-toggle i {color: #31bda2;}
+    .slider-wrap .icon-wrap {margin-bottom:0px; margin-top: 42px; width: 50px; height: 50px;}
+    .slider-wrap .icon-wrap:before{width:80px; height:80px;}
+    .slider-wrap ol.carousel-indicators{margin-bottom:10px;}
+
+    .outline-btn-w{padding: 13px 25px;}
+    .slider-wrap h3 {font-size: 22px;}
+    .slider-wrap h6 {font-size:14px; line-height: 23px;}
+    .slider-wrap .carousel-caption {top:0px; right: 10%;  left: 10%;}
+    .slider-wrap .carousel-indicators {bottom:0px;}
+    .slider-wrap .fa{font-size: 11px;}
+    .slider-wrap .primary-btn{display:none;}
+
+    .keyreasons-block {padding: 30px 0px;}
+    .keyreasons-heading .border-left{border-left:none;}
+    .keyreasons-heading h1{padding:0px 0px 15px 0px; text-align: center;}
+    .keyreasons-heading p{padding:0px; text-align: center;}
+
+    .facts-block .counters span {font-size: 35px;}
+    .facts-block .counters p{font-size: 14px;}
+
+    .leading-companies h4{line-height: 31px;}
+    .leading-companies .slick-next {right: 0px;}
+    .leading-companies .slick-prev {left:0px;}   
+    .leading-companies h3{padding-bottom: 20px; font-size: 24px;} 
+
+
+    .testimonials-block .slick-next {display:none;}
+    .testimonials-block .slick-prev {display:none;}  
+
+    .testimonials-block h5{width: 100%;}
+    .view-datasheet-wrap{padding:0px 0px;}
+    .view-datasheet-wrap .border-right{border-right:none;}
+    .view-datasheet-wrap .view-data-topbox{border-bottom: solid 1px #4f6494;}
+    .view-data-topbox-cont {min-height:auto;  padding-top: 40px;} 
+    .view-datasheet-wrap .view-data-bottombox {padding-top:0px; padding-bottom:60px;  border-bottom: solid 1px #4f6494;}
+
+.webinars-upcoming-block .icon-wrap {margin-bottom:21px; margin-top:24px; width: 50px; height: 50px;}
+.webinars-upcoming-block .icon-wrap:before{width: 90px; height: 90px;}
+.webinars-upcoming-block .webinars-cont{width: 100%;  margin-left: 0px;}
+.webinars-bg{padding:20px 25px 60px 25px; text-align: center;}
+.webinars-upcoming-block p{font-size: 14px; line-height: 22px; text-align: center;}
+.webinars-upcoming-block h4 {font-size: 26px;}
+.webinars-upcoming-block .icon-wrap{float:initial; text-align:center;}
+.webinars-upcoming-block h3{line-height: 43px; text-align: center;}
+.webinars-upcoming-block .outline-btn-w{display: block;}
+
+.fotter-wrap .outline-btn-w{display: inline-block;}
+.fotter-bottom ul.socialIcons {text-align: left;   margin: 17px 0px 0px 0px;}
+.fotter-wrap ul{display: table;}
+
+.border-line-rt{border: none;}
+
+}
+
+
+
+@media only screen and (min-width:568px) and (max-width: 767px){  
+  .facts-block .col-sm-3 { width: 49%;   float: left; margin-top:25px; margin-bottom:25px;} 
+  .fotter-wrap {padding: 40px 10px;}  
+  .newscroll-block{margin-top: 10px;}
+  .sponsors-logo ul li{width: 40%;}
+  .services_col{margin-top: 0px;}
+
+  .text{z-index: 9;}
+  .joinus-bg{padding-top: 20px;}
+  .optional-ui .form-group .form-control{ width: 70%;  margin-bottom: 10px;  margin: 0px auto;}
+  .icon-sb{display: none;}
+  .optional-ui .form-group{width: 80%; margin-top: 40px; margin: 0px auto;}
+  .joinus-bg2{padding-top: 80px;}
+  .home-gallery ul li{display: block; width: 40%; float: left; margin: 3px;}
+
+  .sub-banner{padding: 30px 0px 30px 0px;}
+  .breadcrumb-area h4{font-size: 32px;}
+  .about-us .content-column h2{font-size: 26px;}
+  .newsblock-bar .events ul li .event-info{margin-left: 0px;}
+  .newsblock-bar .events ul li{margin-right: 0px;}
+  .fotter-wrap ul{display: table;}
+
+  .ts-schedule-nav ul li a{padding: 15px 10px;}
+  .border-line-rt{display: none;}
+  .border-line-rt{border: none;}
+
+}
+
+@media only screen and (min-width:320px) and (max-width: 567px){  
+.facts-block .col-sm-3 {margin-top:25px; margin-bottom:25px;}
+.slider-wrap h6{display:none;}
+.slider-wrap .carousel-caption{right: 5%; left: 5%;}
+.slider-wrap h3 {font-size: 17px;  font-weight: 500; margin-top: 5px;}
+.slider-wrap .icon-wrap{margin-top: 29px; margin-bottom: 0px;}
+.testimonials-slick .slick-slide {padding: 30px 5px 30px 5px;}
+.testimonials-box{webkit-box-shadow: 0px 0px 17px -5px rgba(70,123,148,0.48);
+  -moz-box-shadow: 0px 0px 17px -5px rgba(70,123,148,0.48);
+  box-shadow: 0px 0px 17px -5px rgba(70,123,148,0.48);}
+  .testimonials-name{margin-left:0px;}
+  .testimonials-name h6{margin-left: 3px; padding: 0px 0px 0px 10px;}
+  .testi-user{width: 50px;  height: 50px;}
+  .testi-user img{width: 23px;}
+  .testi-user{left: -28px; bottom: -40px;}
+  .testi-quote-text{bottom: -49px;}
+  .optional-ui h3{font-size: 26px;}
+  
+  .carousel-caption{padding-top: 0px;}
+  .slider-wrap{height: 200px;}
+  .newscroll-block{margin-top: 10px;}
+  .slider-wrap h3{line-height: 24px;}
+  .carousel-caption .btn{padding: 10px 20px; font-size: 14px; margin-top: 10px;}
+  .carousel-indicators{display: none;}
+  .banner-block:before{height: 0%;}
+  .common-block-ui.graybg.sponsors:after{display: none;}
+  .common-block-ui{padding: 20px;}
+  .sponsors-logo ul li{width: 100%; margin-top: 20px; margin-bottom: 0px;}  
+  .common-block-ui .card-title{font-size: 26px;}
+  .home-gallery ul li{width: 100%;}
+  .joinus-bg{padding: 0px 10px; padding-top: 20px;}
+  .joinus-bg2{padding: 30px 30px 30px 30px;}
+  .optional-ui .form-group .join-btn{margin-top: 10px; float: right;}
+  .icon-sb{display: none;}
+  .optional-ui .form-group{width: 100%;}
+  .optional-ui .form-group .form-control{width: 100%;}
+  .events-block .aimaeve ul li .viewmore{display: table; margin-bottom: 20px;}
+
+
+  .sub-banner{padding: 30px 0px 30px 0px;}
+  .breadcrumb-area h4{font-size: 26px;}
+  .about-us .content-column h2{font-size: 26px;}
+  .newsblock-bar .events ul li .event-info{margin-left: 0px;}
+  .newsblock-bar .events ul li{margin-right: 0px;}
+
+  .ts-schedule-nav ul li{margin: 5px 0px; width: 100%;}
+  .ts-schedule-nav{margin-bottom: 0px;}
+  .schedule-tabs-item .schedule-listing-item.schedule-left{margin-top: 0px; padding: 60px 100px 0px 0;}
+  .schedule-tabs-item .schedule-listing-item.schedule-right{padding: 60px 20px 0px 100px;}
+  .schedule-tabs-item .schedule-listing-item .schedule-slot-title{font-size: 18px;}
+
+
+  .sponsors-area .single{width: 80%;}
+  .fotter-wrap ul{display: table;}
+
+  .event-title-block{display: table;}
+  .events-main-block .more-btn{margin-top: 0px; margin-right: 25%;}
+  .events-main-block h2{text-align: center;}
+  .border-line-rt{border: none;}
+  
+  .testmonial-block .carousel{padding: 0px; margin: 0px;}
+  .testmonial-block .carousel .testimonial{padding: 0px;}
+
+}
